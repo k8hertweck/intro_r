@@ -12,7 +12,7 @@ If you are taking a workshop based on these materials,
 you should prepare by:
 
 - bringing a computer (laptop, not Google Chromebook or Microsoft Surface) on which to perform the living coding exercises
-- software installed as described in the [installation instructions](software.md)
+- software (R, RStudio, Tidyverse) installed as described in the [installation instructions](software.md) (note: if you have previously installed this software, you may find it useful to upgrade to the latest versions)
 - ensuring your mindset is open to participating
 
 ## For instructors
