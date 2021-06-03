@@ -4,7 +4,7 @@
 
 This site contains materials for introductory R courses I've develop and taught specifically tailored to certain audiences or venues (e.g., conferences). 
 
-- [Intro to R: Pet names](intro_pet_names.md): two-hour overview of Tidyverse data analysis using data from [City of Seattle pet licenses](https://data.seattle.gov/Community/Seattle-Pet-Licenses/jguv-t9rb). Designed and taught at [CascadiaRConf 2021](https://cascadiarconf.org).
+- **Intro to R: Pet names**: two-hour overview of Tidyverse data analysis using data from [City of Seattle pet licenses](https://data.seattle.gov/Community/Seattle-Pet-Licenses/jguv-t9rb). Designed and taught at [CascadiaRConf 2021](https://cascadiarconf.org).
 
 ## What to expect as a participant
 
