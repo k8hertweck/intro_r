@@ -15,6 +15,8 @@ you should prepare by:
 - software (R, RStudio, Tidyverse) installed as described in the [installation instructions](software.md) (note: if you have previously installed this software, you may find it useful to upgrade to the latest versions)
 - ensuring your mindset is open to participating
 
+Answers to questions commonly asked by people getting started with R are available in the [FAQs](faqs.md).
+
 ## For instructors
 
 If you are interested in using these materials for teaching,
