@@ -177,6 +177,7 @@ we can inspect the object and learn a bit more about what the data represents.
 
 If you click on `pets` in the environment pane,
 a new tab will appear next to your R script in the Source pane so you can preview the data:
+
 - These data include pet names obtained from from [City of Seattle pet licenses](https://data.seattle.gov/Community/Seattle-Pet-Licenses/jguv-t9rb).
 - Each row represents a pet, 
 and each column represents information about the pet,
@@ -294,6 +295,7 @@ They function by sends the output from the lefthand side of the symbol
 (in our case, the data from `pets`)
 as the input for the righthand side (here, filtering by animal name).
 A few notes about this code:
+
 - We don't include the name of the data in the `filter` command because the data is coming through the pipe
 - The indentation in the second line is important for keeping track of code chunks that belong together.
 - When executing multiple lines of code in RStudio, your cursor can be placed on any line and the entire chunk will run.
@@ -533,7 +535,8 @@ Because this is code in progress,
 we're not yet assigning to an object,
 and we're also using `glimpse` to peek at the output.
 There are two important things about the new column:
-- it's data type is `date` instead of `chr`
+
+- its data type is `date` instead of `chr`
 - dates are now in a standard format of YYYY-MM-DD
 
 Next, we can split the dates into separate columns,
@@ -614,6 +617,9 @@ but it is certainly worthwhile to check out if you have more dates and times to 
 - There are many ways to perform the same tasks, especially if you are using different packages. When you're getting started, "good" code is code that accomplishes your intended task.
 - Pipes allow you to connect multiple tasks together, and often appear in coding using Tidyverse packages.
 - There are many resources to help you in your learning! Check out the [FAQ page](faqs.md) to get started.
+
+If you would like to see the code as it appears in a single script (without the explanations),
+it's available [here](intro_pet_names.R).
 
 ## Acknowledgements and further reading
 
